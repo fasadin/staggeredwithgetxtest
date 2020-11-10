@@ -19,8 +19,8 @@ class _HomeScreenState2 extends State<HomeScreen2> {
   ];
 
   List<String> _dataForGroups = [
-    "Manage Groups", // TODO: animation of blinking on initial setup
-    "Synchronize with phone to add contacts",
+    "foo", // TODO: animation of blinking on initial setup
+    "bar",
   ];
 
   int _selectedIndex;
